@@ -1,0 +1,9 @@
+.parents {
+    height:100vh;
+}
+.box-form {
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 70%;
+    height: auto;
+}
